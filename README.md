@@ -36,7 +36,7 @@
 ## 🧰 Tech Stack
 
 - **Frontend:** React, TailwindCSS, Chart.js / Recharts  
-- **Backend:** Node.js, PostgreSQL  
+- **Backend:** Node.js, ExpressJS,MongoDB,CORS,Flask  
 - **Blockchain:** Solidity (custom blockchain: *Validify*)  
 - **ML Models:** Python-based models (served via API)  
 - **APIs Used:** TradingView, CoinGecko, Yahoo Finance, etc.
